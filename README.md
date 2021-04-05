@@ -2,11 +2,11 @@
 
 ## Mobile Responsive
 
-![Desktop_View](screenShots/tvapiDesktop.PNG)
+![Desktop_View](screenShots/tviappDesktop.PNG)
 -----
 
-![Mobile_View](screenShots/tvapiMobile.PNG)
+![Mobile_View](screenShots/tviappMobile.PNG)
 ----
 
-![Details_View](screenShots/tvapiDetails.PNG)
+![Details_View](screenShots/tviappDetails.PNG)
 ----
