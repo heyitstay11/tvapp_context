@@ -31,7 +31,7 @@ const Footer = () => {
             TVi APP &copy; 2021
         </Para>
         <Para>
-             Created by 20078 <Hightlighted href="https://github.com/heyitstay11/" target="_blank" class="highlight">Tayyab</Hightlighted> 
+             Created by <Hightlighted href="https://github.com/heyitstay11/" target="_blank" class="highlight">Tayyab</Hightlighted> 
         </Para>
     </Foot>)
 }
