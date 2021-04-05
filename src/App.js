@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
+import Footer from './components/Footer';
 import Searchbar from './components/Searchbar';
 import ShowGrid from './components/ShowGrid';
 import SingleShow from './components/SingleShow';
@@ -14,7 +15,8 @@ const App = () => {
               <>
                 <Header />
                 <Searchbar />
-              <ShowGrid />
+                <ShowGrid />
+                <Footer />
               </>
             } /> 
               <Route path="/show/:id" component={SingleShow} />

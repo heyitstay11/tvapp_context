@@ -5,7 +5,7 @@ import styled from 'styled-components';
 import { useGlobalContext } from '../context';
 
 const Grid = styled.div`
-   min-height: 80vh;
+   min-height: 95vh;
    display: flex;
    flex-wrap: wrap;
    gap: 1.6rem;
